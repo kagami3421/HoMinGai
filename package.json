@@ -1,0 +1,26 @@
+{
+  "name": "hbtcraftshop",
+  "version": "1.0.0",
+  "description": "The Website for HokBingTsai",
+  "main": "Scripts/main.js",
+  "scripts": {
+    "test": "-t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kagami3421/HokBingTsai.git"
+  },
+  "keywords": [
+    "tainan"
+  ],
+  "author": "Kagami",
+  "license": "CC-BY-ND-4.0",
+  "bugs": {
+    "url": "https://github.com/kagami3421/HokBingTsai/issues"
+  },
+  "homepage": "https://github.com/kagami3421/HokBingTsai#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
